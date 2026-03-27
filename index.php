@@ -1,4 +1,6 @@
 <?php
     header("Location: public");
 die();
-// Here's some other random comment to create a conflict
+
+// I'll add some random comment here
+
